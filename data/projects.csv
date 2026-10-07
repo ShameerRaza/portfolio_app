@@ -1,1 +1,3 @@
-
+Title,Description,TechStack,Link
+AI-Powered Mutual Fund Recommendation System,Machine learning-based recommendation system with feature engineering and predictive analytics to generate investment recommendations.,Python, Machine Learning,#
+AI Exam Proctoring System,Automated online examination monitoring system with face detection eye tracking and basic cheating detection features.,Python, OpenCV,#
